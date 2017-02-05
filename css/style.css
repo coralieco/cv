@@ -1,0 +1,60 @@
+@import url("components/avatar.css");
+@import url("components/tabs.css");
+@import url("components/card.css");
+@import url("components/profile_header.css");
+
+
+.first-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  border-radius: 5px;
+  background-color: #033049;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  border-radius: 5px;
+
+}
+
+.container h3 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.container h4 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.small-wrapper {
+  margin-bottom: 10px;
+}
+
+#wrapper{
+  padding: 20px;
+  max-width: 1000px;
+  margin: 20px auto;
+  border-radius: 5px;
+}
+
+#wrapper h2 {
+   font-family: 'Permanent Marker', cursive;
+}
+
+.big-wrapper {
+  max-width: 1000px;
+  padding: 10px 0px;
+  margin: 20px auto;
+
+  border-radius: 5px;
+  font-weight: lighter;
+  font-size: 13px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/*fond beige : background-color: #F5F3EA;*/
+/*fond bleu : background-color: #033049;*/
+
+

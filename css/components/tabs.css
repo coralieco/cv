@@ -1,0 +1,18 @@
+.tabs {
+  background: #033049;
+  border-radius: 6px;
+  color:white;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.tab {
+    font-family: 'Shadows Into Light', cursive;
+    letter-spacing: 2px;
+
+}
+
+.tab p {
+      margin:2px 0px 2px;
+}

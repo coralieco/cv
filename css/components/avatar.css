@@ -1,0 +1,15 @@
+/* Your avatar CSS code here */
+.avatar {
+  border-radius:50%;
+  width:100px;
+  margin-top:15px;
+}
+
+.img-medium {
+  width: 80px;
+  margin-top: 4px;
+}
+
+.img-small {
+  width: 30px;
+}

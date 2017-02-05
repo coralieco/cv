@@ -1,0 +1,16 @@
+
+.profile-header-infos {
+  text-align: center;
+}
+
+.profile-header-infos h2 {
+  font-size: 25px;
+  color: white;
+  font-family: 'Permanent Marker', cursive;
+  letter-spacing: 2px;
+  padding-bottom: 10px;
+}
+
+.profile-header-wrapper {
+  background-color: #F5F3EA;
+}
