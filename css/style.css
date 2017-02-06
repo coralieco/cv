@@ -19,11 +19,11 @@
 }
 
 .container h3 {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Avenir';
 }
 
 .container h4 {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Avenir';
 }
 
 .small-wrapper {
@@ -38,18 +38,18 @@
 }
 
 #wrapper h2 {
-   font-family: 'Permanent Marker', cursive;
+   font-family: 'Avenir';
 }
 
 .big-wrapper {
   max-width: 1000px;
   padding: 10px 0px;
   margin: 20px auto;
-
+  background-color: #E5E3E8;
   border-radius: 5px;
   font-weight: lighter;
   font-size: 13px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Avenir';
 }
 
 
